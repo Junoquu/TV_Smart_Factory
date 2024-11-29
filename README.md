@@ -8,3 +8,5 @@
 - Yolov5
 - Ros2 Humble
 - RoboDk
+## 프로젝트 동작도
+https://github.com/user-attachments/assets/cb6091a5-afcc-4ed8-88c9-2e3c6d89e86a
