@@ -1,0 +1,42 @@
+[0.643s] Invoking command in '/home/ssafy/final_project/src/final_project': PYTHONPATH=/home/ssafy/final_project/build/final_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/final_project/install/final_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/final_project build --build-base /home/ssafy/final_project/build/final_project/build install --record /home/ssafy/final_project/build/final_project/install.log --single-version-externally-managed install_data
+[0.848s] running egg_info
+[0.862s] writing ../../build/final_project/final_project.egg-info/PKG-INFO
+[0.862s] writing dependency_links to ../../build/final_project/final_project.egg-info/dependency_links.txt
+[0.863s] writing entry points to ../../build/final_project/final_project.egg-info/entry_points.txt
+[0.863s] writing requirements to ../../build/final_project/final_project.egg-info/requires.txt
+[0.863s] writing top-level names to ../../build/final_project/final_project.egg-info/top_level.txt
+[0.891s] reading manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[0.891s] writing manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[0.891s] running build
+[0.892s] running build_py
+[0.892s] copying final_project/ptp_move_back.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.892s] copying final_project/test_main_prog.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.892s] copying final_project/obj_detect.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.892s] copying final_project/fixed_main_prog.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.892s] copying final_project/adv_main_prog.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.892s] copying final_project/ptp_move_board.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.892s] copying final_project/__init__.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.892s] copying final_project/ptp_move_panel.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.892s] copying final_project/main_prog.py -> /home/ssafy/final_project/build/final_project/build/lib/final_project
+[0.893s] running install
+[0.897s] running install_lib
+[0.911s] copying /home/ssafy/final_project/build/final_project/build/lib/final_project/adv_main_prog.py -> /home/ssafy/final_project/install/final_project/lib/python3.10/site-packages/final_project
+[0.912s] byte-compiling /home/ssafy/final_project/install/final_project/lib/python3.10/site-packages/final_project/adv_main_prog.py to adv_main_prog.cpython-310.pyc
+[0.913s] running install_data
+[0.913s] copying resource/final_project -> /home/ssafy/final_project/install/final_project/share/ament_index/resource_index/packages
+[0.913s] copying package.xml -> /home/ssafy/final_project/install/final_project/share/final_project
+[0.914s] copying launch/intergrate.launch.py -> /home/ssafy/final_project/install/final_project/share/final_project
+[0.914s] running install_egg_info
+[0.928s] removing '/home/ssafy/final_project/install/final_project/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info' (and everything under it)
+[0.928s] Copying ../../build/final_project/final_project.egg-info to /home/ssafy/final_project/install/final_project/lib/python3.10/site-packages/final_project-0.0.0-py3.10.egg-info
+[0.929s] running install_scripts
+[1.060s] Installing adv_main_prog script to /home/ssafy/final_project/install/final_project/lib/final_project
+[1.060s] Installing fixed_main_prog script to /home/ssafy/final_project/install/final_project/lib/final_project
+[1.060s] Installing main_prog script to /home/ssafy/final_project/install/final_project/lib/final_project
+[1.060s] Installing obj_detect script to /home/ssafy/final_project/install/final_project/lib/final_project
+[1.060s] Installing ptp_move_back script to /home/ssafy/final_project/install/final_project/lib/final_project
+[1.060s] Installing ptp_move_board script to /home/ssafy/final_project/install/final_project/lib/final_project
+[1.060s] Installing ptp_move_panel script to /home/ssafy/final_project/install/final_project/lib/final_project
+[1.060s] Installing test_main_prog script to /home/ssafy/final_project/install/final_project/lib/final_project
+[1.061s] writing list of installed files to '/home/ssafy/final_project/build/final_project/install.log'
+[1.081s] Invoked command in '/home/ssafy/final_project/src/final_project' returned '0': PYTHONPATH=/home/ssafy/final_project/build/final_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ssafy/final_project/install/final_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/final_project build --build-base /home/ssafy/final_project/build/final_project/build install --record /home/ssafy/final_project/build/final_project/install.log --single-version-externally-managed install_data

@@ -1,0 +1,9 @@
+[console_scripts]
+adv_main_prog = final_project.adv_main_prog:main
+fixed_main_prog = final_project.fixed_main_prog:main
+main_prog = final_project.main_prog:main
+obj_detect = final_project.obj_detect:main
+ptp_move_back = final_project.ptp_move_back:main
+ptp_move_board = final_project.ptp_move_board:main
+ptp_move_panel = final_project.ptp_move_panel:main
+test_main_prog = final_project.test_main_prog:main
