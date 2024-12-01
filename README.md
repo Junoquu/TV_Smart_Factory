@@ -1,4 +1,4 @@
-# TV_Smart_Factory
+# Smart Factory Solution for TV Manufacturing
 
 ## 개발 환경
 - Ubuntu 20.04, Raspberry Pi 5
