@@ -14,8 +14,11 @@
 1. Dobot Magician 제어
    - Dobot이 지정된 위치로 이동할 수 있도록 위치 티칭 작업과 Suction Cup을 사용해 Pick & Place 모션을 구현합니다.
    - 사용자가 작동 명령을 내리면 Dobot Magician 로봇 암이 Panel을 탐지 위치로 옮깁니다.
-3. 객체 탐지
+2. 객체 탐지
    - Dobot Magician을 통해 Panel들이 탐지 위치로 이동합니다.
    - Intel RealSense D435i를 통해 실시간 이미지 데이터를 받아옵니다.
    - YOLOv5를 통해 Back Panel과 Board Panel을 분류되며, 이때 
-4. 컨베이어 벨트 제어
+3. 컨베이어 벨트 제어
+   - Raspberry Pi GPIO를 사용해 스텝 모터와 서보 모터를 제어하여 패널을 이동 및 분류.
+4. 소켓 통신
+   - 패널 데이터를 실시간 수집하고 작업을 제어
