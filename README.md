@@ -1,5 +1,4 @@
-# Smart Factory Solution for TV Manufacturing
-***
+# Smart Factory Solution for TV Manufacturing***
 ## 개발 환경
 - **운영체제** : Ubuntu 20.04 
 - **프로그래밍 언어** : Python 3.8  
