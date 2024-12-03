@@ -13,7 +13,7 @@
   - RoboDK
 ***
 ## 프로젝트 동작도
-![프로젝트_동작도](https://github.com/user-attachments/assets/cb6091a5-afcc-4ed8-88c9-2e3c6d89e86a)
+<img src = "https://github.com/Junoquu/TV_Smart_Factory/blob/main/image/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%8F%99%EC%9E%91%EB%8F%84.png">
 ***
 ## 주요 기능
 1. Dobot Magician 제어
