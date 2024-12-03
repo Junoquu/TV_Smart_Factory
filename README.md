@@ -40,4 +40,4 @@
 
 4. 소켓 통신
    - Panel 데이터를 실시간 수집하고 로봇 암 작업과 컨베이어 벨트 작업을 제어합니다.
-  <img src = "
+  <img src = "https://github.com/Junoquu/TV_Smart_Factory/blob/main/image/ros%EC%99%80%20rpy_window%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0(%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0%20%EC%A4%91%20sig1%20%EC%99%84%EB%A3%8C).png">
