@@ -14,7 +14,7 @@
 
 ## 프로젝트 동작도
 ![프로젝트_동작도](https://github.com/user-attachments/assets/cb6091a5-afcc-4ed8-88c9-2e3c6d89e86a)
-
+***
 ## 주요 기능
 1. Dobot Magician 제어
    - Dobot이 지정된 위치로 이동할 수 있도록 위치 티칭 작업과 Suction Cup을 사용해 Pick & Place 모션을 구현합니다.
