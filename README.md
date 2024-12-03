@@ -1,4 +1,5 @@
-# Smart Factory Solution for TV Manufacturing***
+# Smart Factory Solution for TV Manufacturing
+***
 ## 개발 환경
 - **운영체제** : Ubuntu 20.04 
 - **프로그래밍 언어** : Python 3.8  
@@ -19,8 +20,7 @@
    - Dobot이 지정된 위치로 이동할 수 있도록 위치 티칭 작업과 Suction Cup을 사용해 Pick & Place 모션을 구현합니다.
    - 사용자가 작동 명령을 내리면 Dobot Magician 로봇 암이 Panel을 탐지 위치로 옮깁니다.
 
-  <img src = "https://github.com/Junoquu/TV_Smart_Factory/blob/main/image/%EB%B0%B1%ED%8C%90%EB%84%AC.gif">
-  <img src = "https://github.com/Junoquu/TV_Smart_Factory/blob/main/image/%EB%B3%B4%EB%93%9C%ED%8C%90%EB%84%AC.gif">
+  <img src = "https://github.com/Junoquu/TV_Smart_Factory/blob/main/image/%EB%B0%B1%ED%8C%90%EB%84%AC.gif"> <img src = "https://github.com/Junoquu/TV_Smart_Factory/blob/main/image/%EB%B3%B4%EB%93%9C%ED%8C%90%EB%84%AC.gif">
 
 2. 객체 탐지
    - Dobot Magician을 통해 Panel들이 탐지 위치로 이동합니다.
