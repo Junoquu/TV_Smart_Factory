@@ -1,5 +1,5 @@
 # Smart Factory Solution for TV Manufacturing
-***
+
 ## 개발 환경
 - **운영체제** : Ubuntu 20.04 
 - **프로그래밍 언어** : Python 3.8  
@@ -11,7 +11,7 @@
   - YOLOv5  
   - ROS2 Humble  
   - RoboDK
-
+***
 ## 프로젝트 동작도
 ![프로젝트_동작도](https://github.com/user-attachments/assets/cb6091a5-afcc-4ed8-88c9-2e3c6d89e86a)
 ***
