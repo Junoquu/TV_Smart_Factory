@@ -14,7 +14,9 @@
 ***
 ## 프로젝트 동작도
 <img src = "https://github.com/Junoquu/TV_Smart_Factory/blob/main/image/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%8F%99%EC%9E%91%EB%8F%84.png">
+
 ***
+
 ## 주요 기능
 1. Dobot Magician 제어
    - Dobot이 지정된 위치로 이동할 수 있도록 위치 티칭 작업과 Suction Cup을 사용해 Pick & Place 모션을 구현합니다.
